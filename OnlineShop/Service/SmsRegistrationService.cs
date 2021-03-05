@@ -9,8 +9,8 @@ namespace OnlineShop.Service
 {
     public class SmsRegistrationService
     {
-        private string accountSid = "AC03798a1882921c7f150d85a1f9967321";
-        private string authToken = "ad39026ddd99dc8700deba5d111d5f89";
+        private string accountSid = "AC03798a1882921c7f150d85a1f9967***";
+        private string authToken = "ad39026ddd99dc8700deba5d111d5***";
 
         public SmsRegistrationService()
         {
